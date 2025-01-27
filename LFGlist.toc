@@ -1,0 +1,5 @@
+## Interface: 80100
+## Title: LFGlist
+## Notes: Allows you to make a macro that creates a custom group with specified keyword
+## Author: Machinelf
+LFGlist.lua
